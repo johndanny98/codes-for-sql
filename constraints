@@ -1,0 +1,9 @@
+CREATE TABLE Student1(
+
+  ID int NOT NULL,
+
+  Name varchar(25) NOT NULL,
+
+  Age int
+
+);
